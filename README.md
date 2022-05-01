@@ -1,6 +1,5 @@
 # ConcursoPYR
-1. Descripcion: 
-<br/>
+1. Descripcion:<br/>
 Concurso de preguntas y respuestas.
 2. Qué se necesita:
 <br/>
