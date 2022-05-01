@@ -1,7 +1,7 @@
 # ConcursoPYR
 1. Descripcion: 
 <br/>
-  Concurso de preguntas y respuestas.
+Concurso de preguntas y respuestas.
 2. Qué se necesita:
 <br/>
 2.1 XAMPP v3.3.0 
